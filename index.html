@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-  <title>Network</title>
+  <title>FFXII Genius</title>
   <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
   <style type="text/css">
     #mynetwork {
@@ -164,12 +164,17 @@
   </script>
 </head>
 <body onload="draw()">
+  <h1>FFXII Zodiac Age Bazaar Graph</h1>
+  <p>
+    Figure out whether the Loot you're about to sell is a distant dependency of an important recipe.
+  </p>
   <div>
     <form id="findNodeForm">
       <input id="findNodeInput" type="text">
       <button type="submit">Find</button>
     </form>
   </div>
+  <br />
   <div id="wrapper">
     <div id="mynetwork"></div>
     <div id="loadingBar">

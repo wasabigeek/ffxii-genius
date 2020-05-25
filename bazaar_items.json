@@ -1,0 +1,2795 @@
+[
+  {
+    "Item": "Memories of Yore",
+    "Contents": [
+      {
+        "Name": "Pebble",
+        "Amount": "99"
+      }
+    ],
+    "Cost": "999 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Quality Stone",
+        "Amount": "5"
+      }
+    ]
+  },
+  {
+    "Item": "Sipping Wine",
+    "Contents": [
+      {
+        "Name": "Bacchus's Wine",
+        "Amount": "3"
+      }
+    ],
+    "Cost": "240 gil",
+    "Difference": " -120 gil",
+    "IngredientsList": [
+      {
+        "Name": "Tyrant Hide",
+        "Amount": "2"
+      }
+    ]
+  },
+  {
+    "Item": "Chronos Tear Pack*",
+    "Contents": [
+      {
+        "Name": "Chronos Tear",
+        "Amount": "10"
+      }
+    ],
+    "Cost": "333 gil",
+    "Difference": "-267 gil",
+    "IngredientsList": [
+      {
+        "Name": "Eye of the Hawk",
+        "Amount": "1"
+      }
+    ]
+  },
+  {
+    "Item": "Antidote Set",
+    "Contents": [
+      {
+        "Name": "Antidote",
+        "Amount": "3"
+      }
+    ],
+    "Cost": "100 gil",
+    "Difference": " -50 gil",
+    "IngredientsList": [
+      {
+        "Name": "Drab Wool",
+        "Amount": "2"
+      }
+    ]
+  },
+  {
+    "Item": "Eye Drop Set",
+    "Contents": [
+      {
+        "Name": "Eye Drops",
+        "Amount": "3"
+      }
+    ],
+    "Cost": "100 gil",
+    "Difference": " -50 gil",
+    "IngredientsList": [
+      {
+        "Name": "Demon Eyeball",
+        "Amount": "2"
+      }
+    ]
+  },
+  {
+    "Item": "Survival Set",
+    "Contents": [
+      {
+        "Name": "Antidote",
+        "Amount": "12"
+      },
+      {
+        "Name": "Eye Drops",
+        "Amount": "12"
+      },
+      {
+        "Name": "Echo Herbs",
+        "Amount": "12"
+      }
+    ],
+    "Cost": "1,500 gil",
+    "Difference": " -300 gil",
+    "IngredientsList": [
+      {
+        "Name": "Malboro Fruit",
+        "Amount": "4"
+      }
+    ]
+  },
+  {
+    "Item": "Potion Pack",
+    "Contents": [
+      {
+        "Name": "Potion",
+        "Amount": "2"
+      }
+    ],
+    "Cost": "70 gil",
+    "Difference": "-50 gil",
+    "IngredientsList": [
+      {
+        "Name": "Cactus Fruit",
+        "Amount": "2"
+      }
+    ]
+  },
+  {
+    "Item": "Tinctures & Tonics",
+    "Contents": [
+      {
+        "Name": "Potion",
+        "Amount": "5"
+      },
+      {
+        "Name": "Handkerchief",
+        "Amount": "3"
+      },
+      {
+        "Name": "Gold Needle",
+        "Amount": "3"
+      }
+    ],
+    "Cost": "700 gil",
+    "Difference": "+10 gil",
+    "IngredientsList": [
+      {
+        "Name": "Succulent Fruit",
+        "Amount": "4"
+      }
+    ]
+  },
+  {
+    "Item": "Hi-Potion Pack*",
+    "Contents": [
+      {
+        "Name": "Hi-Potion",
+        "Amount": "10"
+      }
+    ],
+    "Cost": "1,111 gil",
+    "Difference": "-689 gil",
+    "IngredientsList": [
+      {
+        "Name": "Rainbow Egg",
+        "Amount": "1"
+      }
+    ]
+  },
+  {
+    "Item": "Smelling Salts, & C.",
+    "Contents": [
+      {
+        "Name": "Hi-Potion",
+        "Amount": "4"
+      },
+      {
+        "Name": "Nu Khai Sand",
+        "Amount": "2"
+      }
+    ],
+    "Cost": "540 gil",
+    "Difference": "-280 gil",
+    "IngredientsList": [
+      {
+        "Name": "Malboro Vine",
+        "Amount": "4"
+      }
+    ]
+  },
+  {
+    "Item": "X-Potion Pack*",
+    "Contents": [
+      {
+        "Name": "X-Potion",
+        "Amount": "10"
+      }
+    ],
+    "Cost": "4,444 gil",
+    "Difference": "-756 gil",
+    "IngredientsList": [
+      {
+        "Name": "Behemoth Steak",
+        "Amount": "1"
+      }
+    ]
+  },
+  {
+    "Item": "Potion Crate",
+    "Contents": [
+      {
+        "Name": "Potion",
+        "Amount": "30"
+      },
+      {
+        "Name": "Hi-Potion",
+        "Amount": "20"
+      },
+      {
+        "Name": "X-Potion",
+        "Amount": "10"
+      }
+    ],
+    "Cost": "7,480 gil",
+    "Difference": "-3,120 gil",
+    "IngredientsList": [
+      {
+        "Name": "Screamroot",
+        "Amount": "3"
+      }
+    ]
+  },
+  {
+    "Item": "Flask of Oily Liquid*",
+    "Contents": [
+      {
+        "Name": "Ether",
+        "Amount": "1"
+      }
+    ],
+    "Cost": "4,000 gil",
+    "Difference": "+3,778 gil",
+    "IngredientsList": [
+      {
+        "Name": "Unpurified Ether",
+        "Amount": "2"
+      },
+      {
+        "Name": "Caramel",
+        "Amount": "3"
+      }
+    ]
+  },
+  {
+    "Item": "Flask of Viscous Liquid*",
+    "Contents": [
+      {
+        "Name": "Hi-Ether",
+        "Amount": "1"
+      }
+    ],
+    "Cost": "12,000 gil",
+    "Difference": "+10,890 gil",
+    "IngredientsList": [
+      {
+        "Name": "Unpurified Ether",
+        "Amount": "2"
+      },
+      {
+        "Name": "Foul Liquid",
+        "Amount": "2"
+      },
+      {
+        "Name": "Slime Oil",
+        "Amount": "1"
+      }
+    ]
+  },
+  {
+    "Item": "Tail of the Phoenix",
+    "Contents": [
+      {
+        "Name": "Phoenix Down",
+        "Amount": "2"
+      }
+    ],
+    "Cost": "400 gil",
+    "Difference": "0 gil",
+    "IngredientsList": [
+      {
+        "Name": "Small Feather",
+        "Amount": "3"
+      }
+    ]
+  },
+  {
+    "Item": "First-aid Kit",
+    "Contents": [
+      {
+        "Name": "Phoenix Down",
+        "Amount": "2"
+      },
+      {
+        "Name": "Potion",
+        "Amount": "2"
+      }
+    ],
+    "Cost": "450 gil",
+    "Difference": "-70 gil",
+    "IngredientsList": [
+      {
+        "Name": "Large Feather",
+        "Amount": "3"
+      }
+    ]
+  },
+  {
+    "Item": "Eye Openers",
+    "Contents": [
+      {
+        "Name": "Phoenix Down",
+        "Amount": "5"
+      },
+      {
+        "Name": "Prince's Kiss",
+        "Amount": "5"
+      }
+    ],
+    "Cost": "1,280 gil",
+    "Difference": "+30 gil",
+    "IngredientsList": [
+      {
+        "Name": "Chocobo Feather",
+        "Amount": "4"
+      }
+    ]
+  },
+  {
+    "Item": "Fire-bird's Whisper*",
+    "Contents": [
+      {
+        "Name": "Phoenix Down",
+        "Amount": "10"
+      }
+    ],
+    "Cost": "2,222 gil",
+    "Difference": "+222 gil",
+    "IngredientsList": [
+      {
+        "Name": "Jack-o'-Lantern",
+        "Amount": "1"
+      }
+    ]
+  },
+  {
+    "Item": "Triage Kit",
+    "Contents": [
+      {
+        "Name": "Phoenix Down",
+        "Amount": "12"
+      },
+      {
+        "Name": "Hi-Potion",
+        "Amount": "3"
+      }
+    ],
+    "Cost": "2,980 gil",
+    "Difference": "+40 gil",
+    "IngredientsList": [
+      {
+        "Name": "Giant Feather",
+        "Amount": "3"
+      }
+    ]
+  },
+  {
+    "Item": "Soul of the Fire-bird",
+    "Contents": [
+      {
+        "Name": "Phoenix Down",
+        "Amount": "25"
+      }
+    ],
+    "Cost": "5,980 gil",
+    "Difference": " +980 gil",
+    "IngredientsList": [
+      {
+        "Name": "Bundle of Feathers",
+        "Amount": "3"
+      }
+    ]
+  },
+  {
+    "Item": "Phoenix Flight",
+    "Contents": [
+      {
+        "Name": "Phoenix Down",
+        "Amount": "50"
+      }
+    ],
+    "Cost": "8,750 gil",
+    "Difference": "-1,250gil",
+    "IngredientsList": [
+      {
+        "Name": "Windslicer Pinion",
+        "Amount": "5"
+      }
+    ]
+  },
+  {
+    "Item": "Serum Pack*",
+    "Contents": [
+      {
+        "Name": "Serum",
+        "Amount": "10"
+      }
+    ],
+    "Cost": "999 gil",
+    "Difference": "-6,001 gil",
+    "IngredientsList": [
+      {
+        "Name": "Demon's Sigh",
+        "Amount": "1"
+      }
+    ]
+  },
+  {
+    "Item": "Phials & Philtres",
+    "Contents": [
+      {
+        "Name": "Serum",
+        "Amount": "8"
+      },
+      {
+        "Name": "Nu Khai Sand",
+        "Amount": "16"
+      }
+    ],
+    "Cost": "1,980 gil",
+    "Difference": "-4,420 gil",
+    "IngredientsList": [
+      {
+        "Name": "Malboro Flower",
+        "Amount": "3"
+      }
+    ]
+  },
+  {
+    "Item": "Life Crystal*",
+    "Contents": [
+      {
+        "Name": "High Arcana"
+      }
+    ],
+    "Cost": "9,999 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Arcana",
+        "Amount": "10"
+      },
+      {
+        "Name": "Feystone",
+        "Amount": "1"
+      },
+      {
+        "Name": "Soul of Thamasa",
+        "Amount": "1"
+      }
+    ]
+  },
+  {
+    "Item": "Saint's Draught*",
+    "Contents": [
+      {
+        "Name": "Elixir",
+        "Amount": "1"
+      }
+    ],
+    "Cost": "36,000 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "High Arcana",
+        "Amount": "1"
+      },
+      {
+        "Name": "Ambrosia",
+        "Amount": "3"
+      },
+      {
+        "Name": "Demon Drink",
+        "Amount": "3"
+      }
+    ]
+  },
+  {
+    "Item": "Esoteric Draught*",
+    "Contents": [
+      {
+        "Name": "Megalixir",
+        "Amount": "1"
+      }
+    ],
+    "Cost": "108,000 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "High Arcana",
+        "Amount": "2"
+      },
+      {
+        "Name": "Onion",
+        "Amount": "3"
+      },
+      {
+        "Name": "Rat Tail",
+        "Amount": "3"
+      }
+    ]
+  },
+  {
+    "Item": "Jewel of the Serpent*",
+    "Contents": [
+      {
+        "Name": "Serpentarius"
+      }
+    ],
+    "Cost": "19,998 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "High Arcana",
+        "Amount": "1"
+      },
+      {
+        "Name": "Snake Skin",
+        "Amount": "4"
+      },
+      {
+        "Name": "Serpent Eye",
+        "Amount": "2"
+      }
+    ]
+  },
+  {
+    "Item": "Jewel of Creation*",
+    "Contents": [
+      {
+        "Name": "Empyreal Soul"
+      }
+    ],
+    "Cost": "29,997 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "High Arcana",
+        "Amount": "1"
+      },
+      {
+        "Name": "Soul Powder",
+        "Amount": "1"
+      },
+      {
+        "Name": "Wargod's Band",
+        "Amount": "2"
+      }
+    ]
+  },
+  {
+    "Item": "Matchless Metal*",
+    "Contents": [
+      {
+        "Name": "Gemsteel"
+      }
+    ],
+    "Cost": "29,997 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Scarletite",
+        "Amount": "1"
+      },
+      {
+        "Name": "Damascus Steel",
+        "Amount": "2"
+      },
+      {
+        "Name": "Hell-Gate's Flame",
+        "Amount": "2"
+      }
+    ]
+  },
+  {
+    "Item": "The Sunflower",
+    "Contents": [
+      {
+        "Name": "Tournesol"
+      }
+    ],
+    "Cost": "600,000 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Serpentarius",
+        "Amount": "3"
+      },
+      {
+        "Name": "Empyreal Soul",
+        "Amount": "3"
+      },
+      {
+        "Name": "Gemsteel",
+        "Amount": "3"
+      }
+    ]
+  },
+  {
+    "Item": "Burning Fangs",
+    "Contents": [
+      {
+        "Name": "Soleil Fang",
+        "Amount": "5"
+      }
+    ],
+    "Cost": "980 gil",
+    "Difference": "-20 gil",
+    "IngredientsList": [
+      {
+        "Name": "Pointed Horn",
+        "Amount": "1"
+      }
+    ]
+  },
+  {
+    "Item": "Magick Shards",
+    "Contents": [
+      {
+        "Name": "Aquara Mote",
+        "Amount": "4"
+      }
+    ],
+    "Cost": "1,480 gil",
+    "Difference": "+330 gil",
+    "IngredientsList": [
+      {
+        "Name": "Festering Flesh",
+        "Amount": "4"
+      }
+    ]
+  },
+  {
+    "Item": "Magick Shard*",
+    "Contents": [
+      {
+        "Name": "Holy Mote",
+        "Amount": "1"
+      }
+    ],
+    "Cost": "99 gil",
+    "Difference": "-801 gil",
+    "IngredientsList": [
+      {
+        "Name": "Glass Jewel",
+        "Amount": "8"
+      },
+      {
+        "Name": "Sky Jewel",
+        "Amount": "8"
+      },
+      {
+        "Name": "Diakon Halcyon",
+        "Amount": "1"
+      }
+    ]
+  },
+  {
+    "Item": "Magick Shard*",
+    "Contents": [
+      {
+        "Name": "Scathe Mote",
+        "Amount": "1"
+      }
+    ],
+    "Cost": "499 gil",
+    "Difference": "-1,801 gil",
+    "IngredientsList": [
+      {
+        "Name": "Book of Orgain",
+        "Amount": "8"
+      },
+      {
+        "Name": "Book of Orgain-Cent",
+        "Amount": "8"
+      },
+      {
+        "Name": "Book of Orgain-Mille",
+        "Amount": "8"
+      }
+    ]
+  },
+  {
+    "Item": "Mysterious Substance",
+    "Contents": [
+      {
+        "Name": "Dark Energy",
+        "Amount": "1"
+      }
+    ],
+    "Cost": "14,999 gil",
+    "Difference": "+14,997 gil",
+    "IngredientsList": [
+      {
+        "Name": "Bat Wing",
+        "Amount": "1"
+      },
+      {
+        "Name": "Grimoire Aidhed",
+        "Amount": "3"
+      },
+      {
+        "Name": "Grimoire Togail",
+        "Amount": "3"
+      }
+    ]
+  },
+  {
+    "Item": "Water-drop Munitions",
+    "Contents": [
+      {
+        "Name": "Water Bombs"
+      }
+    ],
+    "Cost": "2,640 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Book of Orgain",
+        "Amount": "3"
+      },
+      {
+        "Name": "Putrid Liquid",
+        "Amount": "3"
+      },
+      {
+        "Name": "Water Crystal",
+        "Amount": "10"
+      }
+    ]
+  },
+  {
+    "Item": "Befuddling Incendiaries",
+    "Contents": [
+      {
+        "Name": "Caldera"
+      },
+      {
+        "Name": "Chaos Bombs"
+      }
+    ],
+    "Cost": "3,800 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Bomb Shell",
+        "Amount": "4"
+      },
+      {
+        "Name": "Book of Orgain-Cent",
+        "Amount": "3"
+      },
+      {
+        "Name": "Fire Crystal",
+        "Amount": "7"
+      }
+    ]
+  },
+  {
+    "Item": "Noisome Incendiaries",
+    "Contents": [
+      {
+        "Name": "Fumarole"
+      },
+      {
+        "Name": "Poison Bombs"
+      }
+    ],
+    "Cost": "3,280 gil",
+    "Difference": "-6,520 gil",
+    "IngredientsList": [
+      {
+        "Name": "Bomb Shell",
+        "Amount": "1"
+      },
+      {
+        "Name": "Fire Crystal",
+        "Amount": "3"
+      }
+    ]
+  },
+  {
+    "Item": "Oil-Soaked Incendiaries",
+    "Contents": [
+      {
+        "Name": "Tumulus"
+      },
+      {
+        "Name": "Oil Bombs"
+      }
+    ],
+    "Cost": "10,625 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Bomb Ashes",
+        "Amount": "3"
+      },
+      {
+        "Name": "Book of Orgain",
+        "Amount": "2"
+      },
+      {
+        "Name": "Fire Crystal",
+        "Amount": "3"
+      }
+    ]
+  },
+  {
+    "Item": "Stone Shot",
+    "Contents": [
+      {
+        "Name": "Stone Shot"
+      }
+    ],
+    "Cost": "1,480 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Mirror Scale",
+        "Amount": "2"
+      },
+      {
+        "Name": "Tyrant Bone",
+        "Amount": "2"
+      },
+      {
+        "Name": "Libra Gem",
+        "Amount": "3"
+      }
+    ]
+  },
+  {
+    "Item": "Marksman's Delight",
+    "Contents": [
+      {
+        "Name": "Silent Shot"
+      },
+      {
+        "Name": "Capella"
+      }
+    ],
+    "Cost": "550 gil",
+    "Difference": "-750 gil",
+    "IngredientsList": [
+      {
+        "Name": "Fish Scale",
+        "Amount": "2"
+      },
+      {
+        "Name": "Green Liquid",
+        "Amount": "2"
+      },
+      {
+        "Name": "Dark Stone",
+        "Amount": "3"
+      }
+    ]
+  },
+  {
+    "Item": "Rain of Tears",
+    "Contents": [
+      {
+        "Name": "Aqua Shot"
+      },
+      {
+        "Name": "Vega"
+      }
+    ],
+    "Cost": "800 gil",
+    "Difference": "-1400 gil",
+    "IngredientsList": [
+      {
+        "Name": "Yensa Scale",
+        "Amount": "1"
+      },
+      {
+        "Name": "Green Liquid",
+        "Amount": "3"
+      },
+      {
+        "Name": "Water Stone",
+        "Amount": "4"
+      }
+    ]
+  },
+  {
+    "Item": "Armor-piercing Shot",
+    "Contents": [
+      {
+        "Name": "Windslicer Shot"
+      },
+      {
+        "Name": "Spica"
+      }
+    ],
+    "Cost": "8,900 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Ichthon Scale",
+        "Amount": "4"
+      },
+      {
+        "Name": "Silver Liquid",
+        "Amount": "5"
+      },
+      {
+        "Name": "Wind Crystal",
+        "Amount": "7"
+      }
+    ]
+  },
+  {
+    "Item": "Mudslinger",
+    "Contents": [
+      {
+        "Name": "Mud Shot"
+      },
+      {
+        "Name": "Mithuna"
+      }
+    ],
+    "Cost": "120,000 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Emperor Scale",
+        "Amount": "2"
+      },
+      {
+        "Name": "Silver Liquid",
+        "Amount": "3"
+      },
+      {
+        "Name": "Earth Crystal",
+        "Amount": "8"
+      }
+    ]
+  },
+  {
+    "Item": "Bow & Bodkin",
+    "Contents": [
+      {
+        "Name": "Parallel Arrows"
+      },
+      {
+        "Name": "Shortbow"
+      }
+    ],
+    "Cost": "400 gil",
+    "Difference": "-450 gil",
+    "IngredientsList": [
+      {
+        "Name": "Bat Fang",
+        "Amount": "1"
+      },
+      {
+        "Name": "Rat Pelt",
+        "Amount": "2"
+      },
+      {
+        "Name": "Dark Stone",
+        "Amount": "2"
+      }
+    ]
+  },
+  {
+    "Item": "Arrows Alight",
+    "Contents": [
+      {
+        "Name": "Fiery Arrows"
+      },
+      {
+        "Name": "Longbow"
+      }
+    ],
+    "Cost": "2800 gil",
+    "Difference": "-2600 gil",
+    "IngredientsList": [
+      {
+        "Name": "Crooked Fang",
+        "Amount": "2"
+      },
+      {
+        "Name": "Fire Stone",
+        "Amount": "4"
+      }
+    ]
+  },
+  {
+    "Item": "Hollow-shaft Arrows",
+    "Contents": [
+      {
+        "Name": "Bamboo Arrows"
+      },
+      {
+        "Name": "Loxley Bow"
+      }
+    ],
+    "Cost": "3,980 gil",
+    "Difference": "4,720 gil",
+    "IngredientsList": [
+      {
+        "Name": "Bat Fang",
+        "Amount": "5"
+      },
+      {
+        "Name": "Yellow Liquid",
+        "Amount": "1"
+      },
+      {
+        "Name": "Water Magicite",
+        "Amount": "3"
+      }
+    ]
+  },
+  {
+    "Item": "Arrows of the Moon Goddess",
+    "Contents": [
+      {
+        "Name": "Artemis Arrows"
+      }
+    ],
+    "Cost": "1,280 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Great Serpent's Fang",
+        "Amount": "2"
+      },
+      {
+        "Name": "Dorsal Fin",
+        "Amount": "2"
+      },
+      {
+        "Name": "Gemini Gem",
+        "Amount": "3"
+      }
+    ]
+  },
+  {
+    "Item": "Bow of the Moon Goddess",
+    "Contents": [
+      {
+        "Name": "Artemis Bow"
+      }
+    ],
+    "Cost": "9,300 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Solid Horn",
+        "Amount": "5"
+      },
+      {
+        "Name": "Moondust",
+        "Amount": "2"
+      },
+      {
+        "Name": "Sylphi Halcyon",
+        "Amount": "1"
+      }
+    ]
+  },
+  {
+    "Item": "Permafrost Bow & Quiver",
+    "Contents": [
+      {
+        "Name": "Icecloud Arrows"
+      },
+      {
+        "Name": "Perseus Bow"
+      }
+    ],
+    "Cost": "17,200 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Spiral Incisor",
+        "Amount": "4"
+      },
+      {
+        "Name": "Antarctic Wind",
+        "Amount": "2"
+      },
+      {
+        "Name": "Ice Crystal",
+        "Amount": "7"
+      }
+    ]
+  },
+  {
+    "Item": "Silver Bow",
+    "Contents": [
+      {
+        "Name": "Dhanusha"
+      }
+    ],
+    "Cost": "100,000 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Beastlord Horn",
+        "Amount": "3"
+      },
+      {
+        "Name": "Moon Ring",
+        "Amount": "3"
+      },
+      {
+        "Name": "Sagittarius Gem",
+        "Amount": "4"
+      }
+    ]
+  },
+  {
+    "Item": "Ranger's Crossbow",
+    "Contents": [
+      {
+        "Name": "Long Bolts"
+      },
+      {
+        "Name": "Crossbow"
+      }
+    ],
+    "Cost": "1,080 gil",
+    "Difference": "-1,220 gil",
+    "IngredientsList": [
+      {
+        "Name": "Crooked Fang",
+        "Amount": "4"
+      },
+      {
+        "Name": "Yellow Liquid",
+        "Amount": "2"
+      },
+      {
+        "Name": "Ice Stone",
+        "Amount": "1"
+      }
+    ]
+  },
+  {
+    "Item": "Huntsman's Crossbow",
+    "Contents": [
+      {
+        "Name": "Stone Bolts"
+      },
+      {
+        "Name": "Recurve Crossbow"
+      }
+    ],
+    "Cost": "3,500 gil",
+    "Difference": "-3,700 gil",
+    "IngredientsList": [
+      {
+        "Name": "Bundle of Needles",
+        "Amount": "1"
+      },
+      {
+        "Name": "Festering Flesh",
+        "Amount": "2"
+      },
+      {
+        "Name": "Ice Magicite",
+        "Amount": "5"
+      }
+    ]
+  },
+  {
+    "Item": "Scout's Crossbow",
+    "Contents": [
+      {
+        "Name": "Time Bolts"
+      },
+      {
+        "Name": "Penetrator Crossbow"
+      }
+    ],
+    "Cost": "6,400 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Wyvern Fang",
+        "Amount": "4"
+      },
+      {
+        "Name": "Ancient Bone",
+        "Amount": "3"
+      },
+      {
+        "Name": "Holy Crystal",
+        "Amount": "9"
+      }
+    ]
+  },
+  {
+    "Item": "Blindflight Quarrels",
+    "Contents": [
+      {
+        "Name": "Black Bolts"
+      },
+      {
+        "Name": "Hunting Crossbow"
+      }
+    ],
+    "Cost": "11,220 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Spiral Incisor",
+        "Amount": "3"
+      },
+      {
+        "Name": "Silver Liquid",
+        "Amount": "3"
+      },
+      {
+        "Name": "Dark Crystal",
+        "Amount": "3"
+      }
+    ]
+  },
+  {
+    "Item": "Piercing Bolts",
+    "Contents": [
+      {
+        "Name": "Grand Bolts"
+      }
+    ],
+    "Cost": "1,680 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Wrath of the Gods",
+        "Amount": "2"
+      },
+      {
+        "Name": "Ring Wyrm Liver",
+        "Amount": "2"
+      },
+      {
+        "Name": "Capricorn Gem",
+        "Amount": "3"
+      }
+    ]
+  },
+  {
+    "Item": "Wooden Pole",
+    "Contents": [
+      {
+        "Name": "Cypress Pole"
+      }
+    ],
+    "Cost": "480 gil",
+    "Difference": "-480 gil",
+    "IngredientsList": [
+      {
+        "Name": "Bone Fragment",
+        "Amount": "5"
+      },
+      {
+        "Name": "Succulent Fruit",
+        "Amount": "3"
+      },
+      {
+        "Name": "Earth Stone",
+        "Amount": "4"
+      }
+    ]
+  },
+  {
+    "Item": "Iron-forged Pole",
+    "Contents": [
+      {
+        "Name": "Iron Pole"
+      }
+    ],
+    "Cost": "2,115 gil",
+    "Difference": "-2,115 gil",
+    "IngredientsList": [
+      {
+        "Name": "Sturdy Bone",
+        "Amount": "5"
+      },
+      {
+        "Name": "Demon Eyeball",
+        "Amount": "3"
+      },
+      {
+        "Name": "Fire Magicite",
+        "Amount": "7"
+      }
+    ]
+  },
+  {
+    "Item": "Elegant Pole",
+    "Contents": [
+      {
+        "Name": "Ivory Pole"
+      }
+    ],
+    "Cost": "7,980 gil",
+    "Difference": "-5,790 gil",
+    "IngredientsList": [
+      {
+        "Name": "Blood-darkened Bone",
+        "Amount": "8"
+      },
+      {
+        "Name": "Demon Feather",
+        "Amount": "6"
+      },
+      {
+        "Name": "Wind Crystal",
+        "Amount": "7"
+      }
+    ]
+  },
+  {
+    "Item": "Gilt Shield",
+    "Contents": [
+      {
+        "Name": "Buckler"
+      }
+    ],
+    "Cost": "250 gil",
+    "Difference": "-250 gil",
+    "IngredientsList": [
+      {
+        "Name": "Molting",
+        "Amount": "3"
+      },
+      {
+        "Name": "Fire Stone",
+        "Amount": "3"
+      }
+    ]
+  },
+  {
+    "Item": "Golden Garb",
+    "Contents": [
+      {
+        "Name": "Golden Helm"
+      },
+      {
+        "Name": "Golden Armor"
+      },
+      {
+        "Name": "Golden Shield"
+      }
+    ],
+    "Cost": "3,980 gil",
+    "Difference": "-4,020 gil",
+    "IngredientsList": [
+      {
+        "Name": "Iron Carapace",
+        "Amount": "3"
+      },
+      {
+        "Name": "Tanned Hide",
+        "Amount": "2"
+      },
+      {
+        "Name": "Dark Magicite",
+        "Amount": "3"
+      }
+    ]
+  },
+  {
+    "Item": "Burnished Protectives",
+    "Contents": [
+      {
+        "Name": "Burgonet"
+      },
+      {
+        "Name": "Shielded Armor"
+      },
+      {
+        "Name": "Ice Shield"
+      }
+    ],
+    "Cost": "4,850 gil",
+    "Difference": "-5,250 gil",
+    "IngredientsList": [
+      {
+        "Name": "Wyrm Carapace",
+        "Amount": "2"
+      },
+      {
+        "Name": "Quality Hide",
+        "Amount": "2"
+      },
+      {
+        "Name": "Earth Magicite",
+        "Amount": "4"
+      }
+    ]
+  },
+  {
+    "Item": "Platinum Gear",
+    "Contents": [
+      {
+        "Name": "Platinum Helm"
+      },
+      {
+        "Name": "Platinum Armor"
+      },
+      {
+        "Name": "Platinum Shield"
+      }
+    ],
+    "Cost": "9,800 gil",
+    "Difference": "-12,750 gil",
+    "IngredientsList": [
+      {
+        "Name": "Insect Husk",
+        "Amount": "2"
+      },
+      {
+        "Name": "Tanned Giantskin",
+        "Amount": "5"
+      },
+      {
+        "Name": "Storm Magicite",
+        "Amount": "6"
+      }
+    ]
+  },
+  {
+    "Item": "Brilliant Shield",
+    "Contents": [
+      {
+        "Name": "Venetian Shield"
+      }
+    ],
+    "Cost": "7,500 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Ancient Turtle Shell",
+        "Amount": "2"
+      },
+      {
+        "Name": "Ring Wyrm Liver",
+        "Amount": "2"
+      },
+      {
+        "Name": "Undin Halcyon",
+        "Amount": "1"
+      }
+    ]
+  },
+  {
+    "Item": "Forbidding Shield",
+    "Contents": [
+      {
+        "Name": "Demon Shield"
+      }
+    ],
+    "Cost": "7,800 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Aged Turtle Shell",
+        "Amount": "2"
+      },
+      {
+        "Name": "Destrier Barding",
+        "Amount": "8"
+      },
+      {
+        "Name": "Leamonde Halcyon",
+        "Amount": "1"
+      }
+    ]
+  },
+  {
+    "Item": "Unassuming Surcoat",
+    "Contents": [
+      {
+        "Name": "Chromed Leathers"
+      }
+    ],
+    "Cost": "100 gil",
+    "Difference": "-100 gil",
+    "IngredientsList": [
+      {
+        "Name": "Wolf Pelt",
+        "Amount": "2"
+      },
+      {
+        "Name": "Earth Stone",
+        "Amount": "1"
+      }
+    ]
+  },
+  {
+    "Item": "Assorted Leathers",
+    "Contents": [
+      {
+        "Name": "Leather Breastplate"
+      },
+      {
+        "Name": "Leather Headgear"
+      }
+    ],
+    "Cost": "300 gil",
+    "Difference": "-500 gil",
+    "IngredientsList": [
+      {
+        "Name": "Wolf Pelt",
+        "Amount": "2"
+      },
+      {
+        "Name": "Tanned Hide",
+        "Amount": "1"
+      },
+      {
+        "Name": "Dark Stone",
+        "Amount": "2"
+      }
+    ]
+  },
+  {
+    "Item": "Light Spear",
+    "Contents": [
+      {
+        "Name": "Javelin"
+      }
+    ],
+    "Cost": "310 gil",
+    "Difference": "-190 gil",
+    "IngredientsList": [
+      {
+        "Name": "Horn",
+        "Amount": "2"
+      },
+      {
+        "Name": "Foul Flesh",
+        "Amount": "2"
+      },
+      {
+        "Name": "Wind Stone",
+        "Amount": "3"
+      }
+    ]
+  },
+  {
+    "Item": "Iron-forged Blade",
+    "Contents": [
+      {
+        "Name": "Iron Sword"
+      }
+    ],
+    "Cost": "650 gil",
+    "Difference": "-600 gil",
+    "IngredientsList": [
+      {
+        "Name": "Iron Scraps",
+        "Amount": "3"
+      },
+      {
+        "Name": "Foul Flesh",
+        "Amount": "2"
+      },
+      {
+        "Name": "Earth Stone",
+        "Amount": "3"
+      }
+    ]
+  },
+  {
+    "Item": "Traveler's Garb",
+    "Contents": [
+      {
+        "Name": "Feathered Cap"
+      },
+      {
+        "Name": "Traveler's Vestment"
+      }
+    ],
+    "Cost": "1,890 gil",
+    "Difference": "-1,910 gil",
+    "IngredientsList": [
+      {
+        "Name": "Braid Wool",
+        "Amount": "2"
+      },
+      {
+        "Name": "Tanned Hide",
+        "Amount": "2"
+      },
+      {
+        "Name": "Water Stone",
+        "Amount": "5"
+      }
+    ]
+  },
+  {
+    "Item": "Matching Reds",
+    "Contents": [
+      {
+        "Name": "Red Cap"
+      },
+      {
+        "Name": "Brigandine"
+      }
+    ],
+    "Cost": "2,480 gil",
+    "Difference": "-2,520 gil",
+    "IngredientsList": [
+      {
+        "Name": "Coeurl Pelt",
+        "Amount": "3"
+      },
+      {
+        "Name": "Quality Hide",
+        "Amount": "2"
+      },
+      {
+        "Name": "Dark Magicite",
+        "Amount": "3"
+      }
+    ]
+  },
+  {
+    "Item": "Burning Blade",
+    "Contents": [
+      {
+        "Name": "Flametongue"
+      }
+    ],
+    "Cost": "2,025 gil",
+    "Difference": "-1,975 gil",
+    "IngredientsList": [
+      {
+        "Name": "Lumber",
+        "Amount": "2"
+      },
+      {
+        "Name": "Malboro Vine",
+        "Amount": "2"
+      },
+      {
+        "Name": "Fire Stone",
+        "Amount": "6"
+      }
+    ]
+  },
+  {
+    "Item": "Alluring Finery",
+    "Contents": [
+      {
+        "Name": "Lamia's Tiara"
+      },
+      {
+        "Name": "Enchanter's Habit"
+      }
+    ],
+    "Cost": "3,180 gil",
+    "Difference": "-3,220 gil",
+    "IngredientsList": [
+      {
+        "Name": "Fine Wool",
+        "Amount": "3"
+      },
+      {
+        "Name": "Tyrant Hide",
+        "Amount": "1"
+      },
+      {
+        "Name": "Ice Magicite",
+        "Amount": "4"
+      }
+    ]
+  },
+  {
+    "Item": "Monk's Garb",
+    "Contents": [
+      {
+        "Name": "Headband"
+      },
+      {
+        "Name": "Jujitsu Gi"
+      }
+    ],
+    "Cost": "3,180 gil",
+    "Difference": "-3,220 gil",
+    "IngredientsList": [
+      {
+        "Name": "Coeurl Pelt",
+        "Amount": "4"
+      },
+      {
+        "Name": "Tyrant Hide",
+        "Amount": "2"
+      },
+      {
+        "Name": "Ice Magicite",
+        "Amount": "4"
+      }
+    ]
+  },
+  {
+    "Item": "Light & Sturdy Garb",
+    "Contents": [
+      {
+        "Name": "Adamant Hat"
+      },
+      {
+        "Name": "Adamant Vest"
+      }
+    ],
+    "Cost": "5,800 gil",
+    "Difference": "-6,000 gil",
+    "IngredientsList": [
+      {
+        "Name": "Coeurl Pelt",
+        "Amount": "6"
+      },
+      {
+        "Name": "Tanned Tyrant Hide",
+        "Amount": "2"
+      },
+      {
+        "Name": "Storm Magicite",
+        "Amount": "5"
+      }
+    ]
+  },
+  {
+    "Item": "Ninja Garb",
+    "Contents": [
+      {
+        "Name": "Black Cowl"
+      },
+      {
+        "Name": "Black Garb"
+      }
+    ],
+    "Cost": "4,800 gil",
+    "Difference": "-5,000 gil",
+    "IngredientsList": [
+      {
+        "Name": "Fine Wool",
+        "Amount": "4"
+      },
+      {
+        "Name": "Tanned Tyrant Hide",
+        "Amount": "2"
+      },
+      {
+        "Name": "Fire Magicite",
+        "Amount": "5"
+      }
+    ]
+  },
+  {
+    "Item": "Jag-tooth Ninja Sword",
+    "Contents": [
+      {
+        "Name": "Kagenui"
+      }
+    ],
+    "Cost": "3,800 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Giant Feather",
+        "Amount": "5"
+      },
+      {
+        "Name": "Festering Flesh",
+        "Amount": "4"
+      },
+      {
+        "Name": "Dark Magicite",
+        "Amount": "5"
+      }
+    ]
+  },
+  {
+    "Item": "Emboldening Arms",
+    "Contents": [
+      {
+        "Name": "Chakra Band"
+      },
+      {
+        "Name": "Power Vest"
+      }
+    ],
+    "Cost": "7,980 gil",
+    "Difference": "-8,220 gil",
+    "IngredientsList": [
+      {
+        "Name": "Quality Pelt",
+        "Amount": "6"
+      },
+      {
+        "Name": "Tanned Giantskin",
+        "Amount": "4"
+      },
+      {
+        "Name": "Fire Crystal",
+        "Amount": "3"
+      }
+    ]
+  },
+  {
+    "Item": "War Axe",
+    "Contents": [
+      {
+        "Name": "Francisca"
+      }
+    ],
+    "Cost": "4,680 gil",
+    "Difference": "-4,820 gil",
+    "IngredientsList": [
+      {
+        "Name": "Pointed Horn",
+        "Amount": "2"
+      },
+      {
+        "Name": "Malboro Fruit",
+        "Amount": "4"
+      },
+      {
+        "Name": "Wind Magicite",
+        "Amount": "6"
+      }
+    ]
+  },
+  {
+    "Item": "Warped Blade",
+    "Contents": [
+      {
+        "Name": "Diamond Sword"
+      }
+    ],
+    "Cost": "5,650 gil",
+    "Difference": "-4,950 gil",
+    "IngredientsList": [
+      {
+        "Name": "Bundle of Feathers",
+        "Amount": "6"
+      },
+      {
+        "Name": "Maggoty Flesh",
+        "Amount": "4"
+      },
+      {
+        "Name": "Fire Magicite",
+        "Amount": "6"
+      }
+    ]
+  },
+  {
+    "Item": "Forked Spear",
+    "Contents": [
+      {
+        "Name": "Trident"
+      }
+    ],
+    "Cost": "6,450 gil",
+    "Difference": "-7,050 gil",
+    "IngredientsList": [
+      {
+        "Name": "Pointed Horn",
+        "Amount": "4"
+      },
+      {
+        "Name": "Maggoty Flesh",
+        "Amount": "5"
+      },
+      {
+        "Name": "Wind Magicite",
+        "Amount": "6"
+      }
+    ]
+  },
+  {
+    "Item": "Gigas Gear",
+    "Contents": [
+      {
+        "Name": "Gigas Hat"
+      },
+      {
+        "Name": "Gigas Chestplate"
+      }
+    ],
+    "Cost": "17,800 gil",
+    "Difference": "3,600 gil",
+    "IngredientsList": [
+      {
+        "Name": "Prime Pelt",
+        "Amount": "8"
+      },
+      {
+        "Name": "Prime Tanned Hide",
+        "Amount": "7"
+      },
+      {
+        "Name": "Dark Crystal",
+        "Amount": "7"
+      }
+    ]
+  },
+  {
+    "Item": "Mystic Staff",
+    "Contents": [
+      {
+        "Name": "Cloud Staff"
+      }
+    ],
+    "Cost": "3,600 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Quality Lumber",
+        "Amount": "4"
+      },
+      {
+        "Name": "Demon Feather",
+        "Amount": "6"
+      },
+      {
+        "Name": "Storm Crystal",
+        "Amount": "7"
+      }
+    ]
+  },
+  {
+    "Item": "Black Vestments",
+    "Contents": [
+      {
+        "Name": "Black Mask"
+      },
+      {
+        "Name": "Black Robes"
+      }
+    ],
+    "Cost": "12,800 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Blood Wool",
+        "Amount": "9"
+      },
+      {
+        "Name": "Prime Tanned Hide",
+        "Amount": "7"
+      },
+      {
+        "Name": "Dark Crystal",
+        "Amount": "8"
+      }
+    ]
+  },
+  {
+    "Item": "White Vestments",
+    "Contents": [
+      {
+        "Name": "White Mask"
+      },
+      {
+        "Name": "White Robes"
+      }
+    ],
+    "Cost": "12,800 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Blood Wool",
+        "Amount": "9"
+      },
+      {
+        "Name": "Beastlord Hide",
+        "Amount": "7"
+      },
+      {
+        "Name": "Holy Crystal",
+        "Amount": "8"
+      }
+    ]
+  },
+  {
+    "Item": "Nature's Armory",
+    "Contents": [
+      {
+        "Name": "Crown of Laurels"
+      },
+      {
+        "Name": "Rubber Suit"
+      }
+    ],
+    "Cost": "13,800 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Prime Pelt",
+        "Amount": "9"
+      },
+      {
+        "Name": "Forbidden Flesh",
+        "Amount": "7"
+      },
+      {
+        "Name": "Fire Crystal",
+        "Amount": "8"
+      }
+    ]
+  },
+  {
+    "Item": "Sturdy Battle Gear",
+    "Contents": [
+      {
+        "Name": "Maximillian"
+      }
+    ],
+    "Cost": "8,000 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Charger Barding",
+        "Amount": "4"
+      },
+      {
+        "Name": "Split Armor",
+        "Amount": "2"
+      },
+      {
+        "Name": "Pisces Gem",
+        "Amount": "3"
+      }
+    ]
+  },
+  {
+    "Item": "Magepower Helm",
+    "Contents": [
+      {
+        "Name": "Magepower Shishak"
+      }
+    ],
+    "Cost": "7,500 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Charger Barding",
+        "Amount": "5"
+      },
+      {
+        "Name": "Chimera Head",
+        "Amount": "2"
+      },
+      {
+        "Name": "Feystone",
+        "Amount": "1"
+      }
+    ]
+  },
+  {
+    "Item": "Samurai's Katana",
+    "Contents": [
+      {
+        "Name": "Ame-no-Murakumo"
+      }
+    ],
+    "Cost": "8,400 gil",
+    "Difference": "-3,200 gil",
+    "IngredientsList": [
+      {
+        "Name": "Iron Ore",
+        "Amount": "5"
+      },
+      {
+        "Name": "Screamroot",
+        "Amount": "7"
+      },
+      {
+        "Name": "Water Crystal",
+        "Amount": "9"
+      }
+    ]
+  },
+  {
+    "Item": "Double-bladed Knife",
+    "Contents": [
+      {
+        "Name": "Zwill Crossblade"
+      }
+    ],
+    "Cost": "7,500 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Windslicer Pinion",
+        "Amount": "5"
+      },
+      {
+        "Name": "Malboro Flower",
+        "Amount": "7"
+      },
+      {
+        "Name": "Wind Crystal",
+        "Amount": "9"
+      }
+    ]
+  },
+  {
+    "Item": "The Leering Blade",
+    "Contents": [
+      {
+        "Name": "Deathbringer"
+      }
+    ],
+    "Cost": "8,800 gil",
+    "Difference": "-4,900 gil",
+    "IngredientsList": [
+      {
+        "Name": "Broken Sword",
+        "Amount": "3"
+      },
+      {
+        "Name": "Demon Tail",
+        "Amount": "7"
+      },
+      {
+        "Name": "Dark Crystal",
+        "Amount": "10"
+      }
+    ]
+  },
+  {
+    "Item": "Attenuated Greatsword",
+    "Contents": [
+      {
+        "Name": "Save the Queen"
+      }
+    ],
+    "Cost": "9,200 gil",
+    "Difference": "-6,800 gil",
+    "IngredientsList": [
+      {
+        "Name": "Quality Stone",
+        "Amount": "4"
+      },
+      {
+        "Name": "Sky Jewel",
+        "Amount": "7"
+      },
+      {
+        "Name": "Holy Crystal",
+        "Amount": "10"
+      }
+    ]
+  },
+  {
+    "Item": "Devastating Incendiaries",
+    "Contents": [
+      {
+        "Name": "Castellanos"
+      }
+    ],
+    "Cost": "12,000 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Bomb Fragment",
+        "Amount": "3"
+      },
+      {
+        "Name": "Frog Oil",
+        "Amount": "2"
+      },
+      {
+        "Name": "Aries Gem",
+        "Amount": "3"
+      }
+    ]
+  },
+  {
+    "Item": "Darksteel Blade",
+    "Contents": [
+      {
+        "Name": "Stoneblade"
+      }
+    ],
+    "Cost": "17,800 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Orichalcum",
+        "Amount": "2"
+      },
+      {
+        "Name": "Chimera Head",
+        "Amount": "2"
+      },
+      {
+        "Name": "Taurus Gem",
+        "Amount": "3"
+      }
+    ]
+  },
+  {
+    "Item": "Late-model Rifle",
+    "Contents": [
+      {
+        "Name": "Arcturus"
+      }
+    ],
+    "Cost": "8,000 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Wyvern Wing",
+        "Amount": "2"
+      },
+      {
+        "Name": "Yensa Fin",
+        "Amount": "2"
+      },
+      {
+        "Name": "Salamand Halcyon",
+        "Amount": "1"
+      }
+    ]
+  },
+  {
+    "Item": "Ultimate Blade",
+    "Contents": [
+      {
+        "Name": "Ultima Blade"
+      }
+    ],
+    "Cost": "12,800 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Adamantite",
+        "Amount": "2"
+      },
+      {
+        "Name": "Death Powder",
+        "Amount": "2"
+      },
+      {
+        "Name": "Gnoma Halcyon",
+        "Amount": "1"
+      }
+    ]
+  },
+  {
+    "Item": "Engraved Spear",
+    "Contents": [
+      {
+        "Name": "Gungnir"
+      }
+    ],
+    "Cost": "9,025 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Ketu Board",
+        "Amount": "2"
+      },
+      {
+        "Name": "Broken Spear",
+        "Amount": "2"
+      },
+      {
+        "Name": "Mystletainn",
+        "Amount": "2"
+      }
+    ]
+  },
+  {
+    "Item": "Golden Battle Axe",
+    "Contents": [
+      {
+        "Name": "Golden Axe"
+      }
+    ],
+    "Cost": "10,000 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Electrum",
+        "Amount": "2"
+      },
+      {
+        "Name": "Broken Greataxe",
+        "Amount": "2"
+      },
+      {
+        "Name": "Mardu Halcyon",
+        "Amount": "1"
+      }
+    ]
+  },
+  {
+    "Item": "Crimson Blade",
+    "Contents": [
+      {
+        "Name": "Karkata"
+      }
+    ],
+    "Cost": "4,444 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Solid Stone",
+        "Amount": "2"
+      },
+      {
+        "Name": "Vampyr Fang",
+        "Amount": "3"
+      },
+      {
+        "Name": "Dark Crystal",
+        "Amount": "15"
+      }
+    ]
+  },
+  {
+    "Item": "Whisker of the Beast",
+    "Contents": [
+      {
+        "Name": "Kanya"
+      }
+    ],
+    "Cost": "60,000 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Mythril",
+        "Amount": "3"
+      },
+      {
+        "Name": "Corpse Fly",
+        "Amount": "3"
+      },
+      {
+        "Name": "Aquarius Gem",
+        "Amount": "4"
+      }
+    ]
+  },
+  {
+    "Item": "Dragon Crest",
+    "Contents": [
+      {
+        "Name": "Wyrmhero Blade"
+      }
+    ],
+    "Cost": "65,535 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Omega Badge",
+        "Amount": "1"
+      },
+      {
+        "Name": "Godslayer's Badge",
+        "Amount": "1"
+      },
+      {
+        "Name": "Lu Shang's Badge",
+        "Amount": "1"
+      }
+    ]
+  },
+  {
+    "Item": "The Scorpion",
+    "Contents": [
+      {
+        "Name": "Vrscika"
+      }
+    ],
+    "Cost": "70,000 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Charged Gizzard",
+        "Amount": "3"
+      },
+      {
+        "Name": "Wyrm Bone",
+        "Amount": "3"
+      },
+      {
+        "Name": "Scorpio Gem",
+        "Amount": "4"
+      }
+    ]
+  },
+  {
+    "Item": "Well-forged Blade",
+    "Contents": [
+      {
+        "Name": "Simha"
+      }
+    ],
+    "Cost": "80,000 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Lifewick",
+        "Amount": "3"
+      },
+      {
+        "Name": "Ring Wyrm Scale",
+        "Amount": "4"
+      },
+      {
+        "Name": "Leshach Halcyon",
+        "Amount": "1"
+      }
+    ]
+  },
+  {
+    "Item": "Serpent Blade",
+    "Contents": [
+      {
+        "Name": "Mesa"
+      }
+    ],
+    "Cost": "90,000 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Coeurl Whisker",
+        "Amount": "2"
+      },
+      {
+        "Name": "Sickle-Blade",
+        "Amount": "2"
+      },
+      {
+        "Name": "Cancer Gem",
+        "Amount": "3"
+      }
+    ]
+  },
+  {
+    "Item": "Master-crafted Blade",
+    "Contents": [
+      {
+        "Name": "Kumbha"
+      }
+    ],
+    "Cost": "350,000 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Gemsteel",
+        "Amount": "2"
+      },
+      {
+        "Name": "Orichalcum",
+        "Amount": "3"
+      },
+      {
+        "Name": "Mallet",
+        "Amount": "2"
+      }
+    ]
+  },
+  {
+    "Item": "Ninja Footgear",
+    "Contents": [
+      {
+        "Name": "Gillie Boots"
+      }
+    ],
+    "Cost": "400 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Slaven Harness",
+        "Amount": "2"
+      }
+    ]
+  },
+  {
+    "Item": "Brawler's Fetish",
+    "Contents": [
+      {
+        "Name": "Amber Armlet"
+      }
+    ],
+    "Cost": "3,000 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Gimble Stalk",
+        "Amount": "2"
+      }
+    ]
+  },
+  {
+    "Item": "Blush of Light",
+    "Contents": [
+      {
+        "Name": "Firefly"
+      }
+    ],
+    "Cost": "1,200 gil",
+    "Difference": "-400 gil",
+    "IngredientsList": [
+      {
+        "Name": "Magick Lamp",
+        "Amount": "1"
+      },
+      {
+        "Name": "Tomato Stalk",
+        "Amount": "2"
+      },
+      {
+        "Name": "Snowfly",
+        "Amount": "1"
+      }
+    ]
+  },
+  {
+    "Item": "Shoes of the Dead",
+    "Contents": [
+      {
+        "Name": "Quasimodo Boots"
+      }
+    ],
+    "Cost": "450 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Zombie Powder",
+        "Amount": "1"
+      },
+      {
+        "Name": "Destrier Mane",
+        "Amount": "1"
+      }
+    ]
+  },
+  {
+    "Item": "Back Harness",
+    "Contents": [
+      {
+        "Name": "Battle Harness"
+      }
+    ],
+    "Cost": "600 gil",
+    "Difference": "-400 gil",
+    "IngredientsList": [
+      {
+        "Name": "Throat Wolf Blood",
+        "Amount": "1"
+      }
+    ]
+  },
+  {
+    "Item": "Large Gloves",
+    "Contents": [
+      {
+        "Name": "Blazer Gloves"
+      }
+    ],
+    "Cost": "2,000 gil",
+    "Difference": "-1,000 gil",
+    "IngredientsList": [
+      {
+        "Name": "Bent Staff",
+        "Amount": "3"
+      }
+    ]
+  },
+  {
+    "Item": "Wing Cord",
+    "Contents": [
+      {
+        "Name": "Pheasant Netsuke"
+      }
+    ],
+    "Cost": "2,000 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Stardust",
+        "Amount": "2"
+      }
+    ]
+  },
+  {
+    "Item": "Gilt Phylactery",
+    "Contents": [
+      {
+        "Name": "Golden Amulet"
+      }
+    ],
+    "Cost": "3,000 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Tattered Garment",
+        "Amount": "1"
+      }
+    ]
+  },
+  {
+    "Item": "Feathered Boots",
+    "Contents": [
+      {
+        "Name": "Winged Boots"
+      }
+    ],
+    "Cost": "300 gil",
+    "Difference": "-200 gil",
+    "IngredientsList": [
+      {
+        "Name": "Arctic Wind",
+        "Amount": "1"
+      }
+    ]
+  },
+  {
+    "Item": "Shell-worked Collar",
+    "Contents": [
+      {
+        "Name": "Turtleshell Choker"
+      }
+    ],
+    "Cost": "6,000 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Bomb Shell",
+        "Amount": "2"
+      },
+      {
+        "Name": "Four-leaf Clover",
+        "Amount": "2"
+      }
+    ]
+  },
+  {
+    "Item": "Exquisite Ring",
+    "Contents": [
+      {
+        "Name": "Opal Ring"
+      }
+    ],
+    "Cost": "7,800 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Frogspawn",
+        "Amount": "2"
+      }
+    ]
+  },
+  {
+    "Item": "Wind Walkers",
+    "Contents": [
+      {
+        "Name": "Hermes Sandals"
+      }
+    ],
+    "Cost": "18,000 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Gysahl Greens",
+        "Amount": "33"
+      },
+      {
+        "Name": "Arcana",
+        "Amount": "15"
+      }
+    ]
+  },
+  {
+    "Item": "Chain-link Belt",
+    "Contents": [
+      {
+        "Name": "Bubble Belt"
+      }
+    ],
+    "Cost": "17,820 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Battlewyrm Carapace",
+        "Amount": "2"
+      },
+      {
+        "Name": "Adamantite",
+        "Amount": "1"
+      }
+    ]
+  },
+  {
+    "Item": "Comfy Headgear",
+    "Contents": [
+      {
+        "Name": "Cat-ear Hood"
+      }
+    ],
+    "Cost": "25,000 gil",
+    "Difference": "-25,000 gil",
+    "IngredientsList": [
+      {
+        "Name": "White Incense",
+        "Amount": "2"
+      },
+      {
+        "Name": "Einherjarium",
+        "Amount": "2"
+      },
+      {
+        "Name": "Virgo Gem",
+        "Amount": "7"
+      }
+    ]
+  },
+  {
+    "Item": "Cursed Necklace",
+    "Contents": [
+      {
+        "Name": "Nihopalaoa"
+      }
+    ],
+    "Cost": "28,000 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Blood-stained Necklace",
+        "Amount": "3"
+      },
+      {
+        "Name": "Death's-Head",
+        "Amount": "2"
+      },
+      {
+        "Name": "Leo Gem",
+        "Amount": "3"
+      }
+    ]
+  },
+  {
+    "Item": "Morbid Urn",
+    "Contents": [
+      {
+        "Name": "Canopic Jar"
+      }
+    ],
+    "Cost": "250,000 gil",
+    "Difference": "N/A",
+    "IngredientsList": [
+      {
+        "Name": "Horakhty's Flame",
+        "Amount": "1"
+      },
+      {
+        "Name": "Phobos Glaze",
+        "Amount": "1"
+      },
+      {
+        "Name": "Deimos Clay",
+        "Amount": "1"
+      }
+    ]
+  }
+]

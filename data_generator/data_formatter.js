@@ -9,7 +9,6 @@ bazaarItems.forEach(function(item) {
   const ingredients = item['IngredientsList']
   const ingredient_names = ingredients.map(function(val) { return val['Name'] });
 
-
   contents
     .concat(ingredient_names)
     .forEach(function(c) { nodeSet.add(c) })
@@ -27,13 +26,8 @@ for (const node of nodeSet) {
   nodes.push({id: node, label: node})
 }
 
-
-
-
-// fs.writeFileSync('data/edges.json', JSON.stringify(edges));
-// fs.writeFileSync('data/nodes.json', JSON.stringify(nodes));
 fs.writeFileSync(
-  'load_vis_data.js',
+  '../load_vis_data.js',
   "var nodes = new vis.DataSet(" + JSON.stringify(nodes) + ");\n\n"
   + "var edges = new vis.DataSet(" + JSON.stringify(edges) + ");\n\n"
 );

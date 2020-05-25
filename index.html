@@ -86,7 +86,10 @@
   </style>
   <script type="text/javascript" src="load_vis_data.js"></script>
   <script type="text/javascript">
+    var network, lastNodeUpdate;
+
     function draw() {
+      document.getElementById('findNodeForm').addEventListener('submit', findNode);
       // create a network
       var container = document.getElementById('mynetwork');
       var options = {
@@ -99,7 +102,7 @@
         physics: {
           enabled: true,
           stabilization: {
-            iterations: 50,
+            iterations: 1000,
             updateInterval:25
           }
         }
@@ -107,7 +110,7 @@
 
       var data = { nodes: nodes, edges: edges};
 
-      var network = new vis.Network(container, data, options);
+      network = new vis.Network(container, data, options);
 
       // loading bar
       network.on("stabilizationProgress", function(params) {
@@ -127,9 +130,29 @@
         setTimeout(function () {document.getElementById('loadingBar').style.display = 'none';}, 500);
       });
     }
+
+    function resetNodes() {
+      // network.setData({ nodes: nodes, edges: edges });
+    }
+
+    function findNode(e) {
+      e.preventDefault();
+      // resetNodes();
+      var nodeId = document.getElementById('findNodeInput').value;
+      var newColor = '#FF0';
+
+      nodes.update([{ id: nodeId, color:{ background:newColor } }]);
+      network.focus(nodeId, { scale: 1.5 })
+    }
   </script>
 </head>
 <body onload="draw()">
+  <div>
+    <form id="findNodeForm">
+      <input id="findNodeInput" type="text">
+      <button type="submit">Find</button>
+    </form>
+  </div>
   <div id="wrapper">
     <div id="mynetwork"></div>
     <div id="loadingBar">

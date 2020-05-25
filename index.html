@@ -86,7 +86,8 @@
   </style>
   <script type="text/javascript" src="load_vis_data.js"></script>
   <script type="text/javascript">
-    var network, filteredNodes;
+    var network;
+    var filteredNodes = [];  // technically should be a vis.Dataset
 
     function draw() {
       document.getElementById('findNodeForm').addEventListener('submit', findNode);
@@ -133,13 +134,14 @@
 
     function resetNodes() {
       nodes.update(filteredNodes.map(function(node) {
-        delete node.color;
+        node["color"] = { background: "#8dbaf3" };
+        return node;
       }));
     }
 
     function findNode(e) {
       e.preventDefault();
-      // resetNodes();
+      resetNodes();
       var searchText = document.getElementById('findNodeInput').value.toLowerCase();
       filteredNodes = nodes.get({
         filter: function (node) {
@@ -149,7 +151,7 @@
 
       var newColor = '#FF0';
       nodes.update(filteredNodes.map(function(node) {
-        node["color"] = { background:newColor };
+        node["color"] = { background: newColor };
         return node;
       }));
 
